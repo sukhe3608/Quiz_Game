@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "Madrid", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which language is primarily used for data science?",
+        "options": ["Python", "Java", "C++", "Ruby"],
+        "answer": "Python"
+    }
+]
