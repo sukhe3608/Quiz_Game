@@ -12,7 +12,7 @@ def run():
     while True:
         choice = main_menu()
         if choice == '1':
-            questions = load_questions('questions.json')
+            questions = load_questions('data/questions.json')
             if not questions:
                 print("No questions available to start the quiz.")
                 continue
@@ -29,5 +29,7 @@ def run():
 
         else:
             print("Invalid choice. Please select a valid option.")
+
+
 
 

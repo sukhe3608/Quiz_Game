@@ -2,7 +2,6 @@ import json
 from quiz_game.question import Question
 
 def load_questions(file_path: str) -> list:
-
     questions =[]
     
     try : 
